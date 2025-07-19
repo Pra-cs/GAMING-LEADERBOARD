@@ -83,9 +83,10 @@ The app will run at [http://localhost:5173](http://localhost:5173) by default (V
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots (UI Screenshots)
 
-> Add UI screenshots or gifs here to show functionality.
+> UI screenshots.<img width="468" height="595" alt="output" src="https://github.com/user-attachments/assets/260a38ad-155b-4d6a-82e9-13d15e90c964" />
+
 
 ---
 

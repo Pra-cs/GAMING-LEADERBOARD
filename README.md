@@ -32,8 +32,7 @@ A fullstack leaderboard system with live updates, user rank lookup, Redis cachin
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gaming-board.git
-cd gaming-board
+git clone https://github.com/Pra-cs/GAMING-LEADERBOARD.git
 ```
 
 ---

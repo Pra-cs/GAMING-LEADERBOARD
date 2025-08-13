@@ -85,9 +85,7 @@ The app will run at [http://localhost:5173](http://localhost:5173) by default (V
 ## 📸 Screenshots (UI Screenshots)
 
 > UI screenshots.<img width="408" height="495" alt="output" src="https://github.com/user-attachments/assets/260a38ad-155b-4d6a-82e9-13d15e90c964" />
-<img width="399" height="513" alt="admin_op" src="https://github.com/user-attachments/assets/935b2d1c-78b6-4068-b455-0e01f4458ce3" />
-
-
+> <img width="399" height="513" alt="admin_op" src="https://github.com/user-attachments/assets/935b2d1c-78b6-4068-b455-0e01f4458ce3" />
 
 ---
 
@@ -103,3 +101,7 @@ The app will run at [http://localhost:5173](http://localhost:5173) by default (V
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## Author
+
+-- Prabhat
